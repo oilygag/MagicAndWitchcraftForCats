@@ -13,7 +13,7 @@ body {
 }
 
 .img2 {
-    border-radius: 50%;
+     border-radius: 50%; important!
 }
 
 /* CUSTOMIZE THE NAVBAR
