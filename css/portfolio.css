@@ -12,7 +12,9 @@ body {
     background-color: lightgray; important!
 }
 
-
+.img2 {
+    border-radius: 50%;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
